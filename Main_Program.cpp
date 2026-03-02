@@ -1,3 +1,5 @@
+// check repository description for what this does
+
 #include <SDL2/SDL.h>
 #include <iostream>
 
